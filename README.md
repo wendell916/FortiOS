@@ -1,7 +1,9 @@
 # FortiOS
 Installation and configuration of fortigate firewall in vmware 
 
-Create an account on fortinet to be able to download the image for installation if you do log in into the account
-``````
-https://customersso1.fortinet.com/saml-idp/jrx0g5n1etn0aoy9/login/?SAMLRequest=hZLNbtswEIRfReCd%2BnNkW4RtwI1RxEDaCJbbQy8FLa1sFhKpcJeJ8%2Fah5KRNLu51Mcv5ZpYLlF3bi7Wjk97BowOkYLtZst9xns1rOKS8njYHfpMlUz5Pm5ynh1nSTOQ8nyRTFvwEi8roJUvDmAVbRAdbjSQ1%2BVGcZjxO%2BCTep6mYxOJmFmaz%2FBcLNt5FaUnj5omoRxFFlUMynX8PTRI2xnoFUFiZLhoQuar76I89x8dMJ0A6luYlj1pzVDpiwVdjKxgzLFkjW4SBpZCI6gn%2BTgpryFSm%2FaJ0rfRxyZzVwkhUKLTsAAVVolx%2Fuxc%2BizhcRCju9vuCFw%2FlngVrRLAD9K3R6DxqCfZJVfBjd%2F8vBrq%2B9%2FCfE5Tlw4U1lHg6s%2BDctRrFWP11jP6Nma0Wg1qMDdsP%2B9fX5TsxW%2F2XrwOStSQ5Ii6iD3YX71589%2B9vN4VpVfUyVN5Jum4%2FTFTNm1EqnMYeKtUoqH2XbWueby1I8gci6%2Fx9otXF9fNvXL0C&RelayState=UmV0dXJuVXJsPUwwMWhhVzR1WVhOd2VBPT0maGtleT0%3D
-``````
+Create an account on Fortinet to download the installation image.
+Log in to your account.
+Navigate to Support > VM Images.
+Due to licensing issues, install FortiGate version 7.2.10 instead of the latest version.
+Select the platform as VMware ESXi and download the image.
+Import the OVA file into VMware.
