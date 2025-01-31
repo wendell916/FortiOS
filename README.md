@@ -44,6 +44,6 @@ end -To exit out of the interface
 ```````````
 
 To access the fortigate firewall via gui
-Enter the command get system interface physical
+Enter the command **get system interface physical**
 
 
