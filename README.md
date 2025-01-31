@@ -42,10 +42,11 @@ set allowaccess https ssh ping
 set ip  "your-default gateway of your internal network" eg. 192.168.200.1/24
 end -To exit out of the interface
 ```````````
-
+````
 To access the fortigate firewall via gui
 Enter the command **get system interface physical**
 Under the management port, you should see an ip address .Use that to access the gui via https.
+````
 <img width="292" alt="image" src="https://github.com/user-attachments/assets/84ed8c40-dec6-411e-8fd9-23cf53fcb0c3" />
 
 
