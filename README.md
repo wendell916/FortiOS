@@ -25,8 +25,13 @@ A client requires a FortiGate firewall to prevent unauthorized access to their n
 We are going to configure the interfaces of the lan interface on port 1 and configure the wan interface on port 2,Use the following commands to edit them successfully
 ```````````
 config system interface -This get into the interfaces of the FortiOS
-edit port1 
+edit port1
+set mode dhcp 
 set role lan  
 set alias wendellLAN 
 set allowaccess https ssh ping
+
+To verify your configuration use can use the command show 
+
+
 
