@@ -35,10 +35,15 @@ To verify your configuration use the command show
 enter command next
 edit port2
 set mode static
+
 set role lan
 set alias wendellLAN
 set allowaccess https ssh ping
 set ip  "your-default gateway of your internal network" eg. 192.168.200.1/24
+end -To exit out of the interface
 
+```````
+To access the fortigate firewall via gui
+Enter the command get system interface physical
 
 
