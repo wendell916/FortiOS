@@ -22,16 +22,23 @@ A client requires a FortiGate firewall to prevent unauthorized access to their n
 *  Wan interface- Internet provided by the isp
 
 # Configuring of interfaces via cli
-We are going to configure the interfaces of the lan interface on port 1 and configure the wan interface on port 2,Use the following commands to edit them successfully
+We are going to configure the interfaces of the wan interface on port 1 and configure the lan interface on port 2,Use the following commands to edit them successfully
 ```````````
 config system interface -This get into the interfaces of the FortiOS
 edit port1
 set mode dhcp 
-set role lan  
-set alias wendellLAN 
+set role wan  
+set alias wendellWAN 
 set allowaccess https ssh ping
 
-To verify your configuration use the command show 
+To verify your configuration use the command show
+enter command next
+edit port2
+set mode static
+set role lan
+set alias wendellLAN
+set allowaccess https ssh ping
+set ip  "your-default gateway of your internal network" eg. 192.168.200.1/24
 
 
 
