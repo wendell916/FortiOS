@@ -13,4 +13,6 @@ Username: admin
 Password: (Press Enter, as there is no default password)
 ``````
 * You will be prompted to change your password before proceeding.
-
+```````
+# Case Study
+A client requires a FortiGate firewall to prevent unauthorized access to their network and enforce strict content filtering policies. The firewall should ensure that end users cannot access social media sites, betting sites, and sexually explicit websites while connected to the company network.
