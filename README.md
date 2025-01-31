@@ -21,7 +21,7 @@ A client requires a FortiGate firewall to prevent unauthorized access to their n
 *  Lan interface-The internal network of the company
 *  Wan interface- Internet provided by the isp
 
-# Configuring of interface via cli
+# Configuring of interfaces via cli
 We are going to configure the interfaces of the lan interface on port 1 and configure the wan interface on port 2,Use the following commands to edit them successfully
 ```````````
 config system interface
