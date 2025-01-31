@@ -31,7 +31,7 @@ set role lan
 set alias wendellLAN 
 set allowaccess https ssh ping
 
-To verify your configuration use can use the command show 
+To verify your configuration use the command show 
 
 
 
