@@ -18,5 +18,5 @@ Password: (Press Enter, as there is no default password)
 A client requires a FortiGate firewall to prevent unauthorized access to their network and enforce strict content filtering policies. The firewall should ensure that end users cannot access social media sites, betting sites, and sexually explicit websites while connected to the company network.
 
 # Network Archictecture Overview.
-*Lan interface-The internal network of the company
-* Wan interface- Internet provided by the isp
+* # Lan interface-The internal network of the company
+* # Wan interface- Internet provided by the isp
