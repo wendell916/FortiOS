@@ -55,6 +55,8 @@ You can equally configure the interface via the gui as well.
 Since I made the interface configurations directly through the CLI, the interfaces were already correctly reflected in the system as per the configuration I applied.
 You can click on any of the ports to make changes to the interfaces as preferred.
 ````
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/37e63d0c-a5a6-45cb-bf4c-cbac0d196f83" />
+
 
 
 
