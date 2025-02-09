@@ -47,8 +47,12 @@ To access the fortigate firewall via gui
 Enter the command get system interface physical
 Under the management port, you should see an ip address .Use that to access the gui via https.
 ````
+You can equally configure the interface via the gui as well. 
+![image](https://github.com/user-attachments/assets/4ea6433f-61b2-4a9a-bab8-692b3ea36f3d)
 
-<img width="292" alt="image" src="https://github.com/user-attachments/assets/84ed8c40-dec6-411e-8fd9-23cf53fcb0c3" />
+# Configuring the interfaces via gui
+
+
 
 
 
