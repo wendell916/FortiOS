@@ -67,7 +67,7 @@ DNS Filtering enhances network security by restricting access to unauthorized or
 * In this case study, I chose gambling, nudity and risque, pornography and entertainment to block portal.
 * I also enabled Redirect botnet C&C requests to Block portal
 * Enabled Enforce 'SafeSearch' pm Google,Bing,Youtube and also restricted Youtube Access to strict
-`````
+
 
 ![image](https://github.com/user-attachments/assets/5abae4f0-caad-44d0-b8bc-49892be87be3)
 
