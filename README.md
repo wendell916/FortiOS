@@ -76,7 +76,7 @@ DNS Filtering enhances network security by restricting access to unauthorized or
 * Create New profile
 * Under Fortiguard Filtering
 * Choose the categories you prefer to monitor,allow or block to redirect portal.
-* You can also enable URL filter and manually enter websites you will want to block.
+* You can also enable URL filter and manually enter websites you will want to block. I manually blocked two social media websites.
   
 ![image](https://github.com/user-attachments/assets/80f1af66-ebcc-49be-a946-78c26e482d38)
 
