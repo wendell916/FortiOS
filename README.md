@@ -81,6 +81,12 @@ DNS Filtering enhances network security by restricting access to unauthorized or
 ![image](https://github.com/user-attachments/assets/80f1af66-ebcc-49be-a946-78c26e482d38)
 
 # Configuring Firewall Policies
+Firewall policies control how traffic flows between networks eg. lan to wan traffice  and vice versa.
+Without Firewall policies:
+* Internal users cannot access the internet
+* Security policies like the ones we have created cannot be applied.
+* In this case I only configured to firewall policies. i.e lan-to-internet policy and internet-to-lan policies.
+  
 ![image](https://github.com/user-attachments/assets/7ecd234b-1e17-4c06-84f1-d7797689b149)
 
 ![image](https://github.com/user-attachments/assets/c9ad8b23-5d5e-4b94-9130-42b74f56ac81)
