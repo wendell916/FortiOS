@@ -57,19 +57,28 @@ You can click on any of the ports to make changes to the interfaces as preferred
 ````
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/37e63d0c-a5a6-45cb-bf4c-cbac0d196f83" />
 
-# Configure DNS Filtering
+# Configuring DNS Filtering
 DNS Filtering enhances network security by restricting access to unauthorized or malicious websites by preventing DNS resolution. When enabled, requests to blocked domains—such as google.com—will fail to resolve into an IP address, effectively preventing users from accessing those sites. This proactive approach helps enforce security policies, minimize exposure to harmful content, and improve overall network control.
 
 * Go to Security Profiles > DNS Filter
-* Create New
+* Create New Profile
 * Under Fortiguard Filtering, toggle it enabled if not enabled
-* You will see categories you can either allow,block or redirect to block portal.
+* You will see categories you can either allow,monitor or redirect to block portal.
 * In this case study, I chose gambling, nudity and risque, pornography and entertainment to block portal.
 * I also enabled Redirect botnet C&C requests to Block portal
 * Enabled Enforce 'SafeSearch' pm Google,Bing,Youtube and also restricted Youtube Access to strict
 
-
 ![image](https://github.com/user-attachments/assets/5abae4f0-caad-44d0-b8bc-49892be87be3)
+
+
+# Configuring Web Filtering
+* Go to Security Profiles > Web Filter
+* Create New profile
+* Under Fortiguard Filtering
+* Choose the categories you prefer to monitor,allow or block to redirect portal.
+* You can also enable URL filter and manually enter websites you will want to block.
+  
+![image](https://github.com/user-attachments/assets/80f1af66-ebcc-49be-a946-78c26e482d38)
 
 
 
