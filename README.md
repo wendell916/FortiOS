@@ -60,7 +60,6 @@ You can click on any of the ports to make changes to the interfaces as preferred
 # Configure DNS Filtering
 DNS Filtering enhances network security by restricting access to unauthorized or malicious websites by preventing DNS resolution. When enabled, requests to blocked domains—such as google.com—will fail to resolve into an IP address, effectively preventing users from accessing those sites. This proactive approach helps enforce security policies, minimize exposure to harmful content, and improve overall network control.
 
-`````
 * Go to Security Profiles > DNS Filter
 * Create New
 * Under Fortiguard Filtering, toggle it enabled if not enabled
