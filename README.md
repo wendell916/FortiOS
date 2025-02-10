@@ -7,7 +7,7 @@ Installation and configuration of fortigate firewall in vmware
 * Due to licensing issues, preferably install FortiGate version 7.2.10 instead of the latest version.
 * Select the platform as VMware ESXi and download the image.
 * Import the OVA file into VMware.
-* Before starting up the vmware, change the adapter settings allow one of the adapters to be on NAT(This will represent our internal network)
+* Before starting up the vmware, change the adapter settings to allow one of the adapters to be on NAT or LAN Segment(This will represent our internal network)
 * The default CLI credentials are:
 ````
 Username: admin
