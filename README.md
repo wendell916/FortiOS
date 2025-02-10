@@ -80,6 +80,13 @@ DNS Filtering enhances network security by restricting access to unauthorized or
   
 ![image](https://github.com/user-attachments/assets/80f1af66-ebcc-49be-a946-78c26e482d38)
 
+# Configuring Firewall Policies
+![image](https://github.com/user-attachments/assets/7ecd234b-1e17-4c06-84f1-d7797689b149)
+
+![image](https://github.com/user-attachments/assets/c9ad8b23-5d5e-4b94-9130-42b74f56ac81)
+
+![image](https://github.com/user-attachments/assets/0d0d4bd0-1f0d-4efd-b7a3-63cf43ef5ad3)
+
 
 
 
