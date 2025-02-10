@@ -85,7 +85,8 @@ Firewall policies control how traffic flows between networks eg. lan to wan traf
 Without Firewall policies:
 * Internal users cannot access the internet
 * Security policies like the ones we have created cannot be applied.
-* In this case I only configured to firewall policies. i.e lan-to-internet policy and internet-to-lan policies.
+* In this case I only configured two  firewall policies. i.e lan-to-internet policy and internet-to-lan policies.
+* Go Policy & Objects > Firewall policy
   
 ![image](https://github.com/user-attachments/assets/7ecd234b-1e17-4c06-84f1-d7797689b149)
 
