@@ -97,6 +97,8 @@ Without Firewall policies:
 # Testing 
 
 
-
+# Conclusion 
+The successful configuration of the Fortigate firewall in VMware ensures a secure and well-managed network for the client.By setting up LAN and WAN interfaces,defining firewall policies, and implementing security features like DNS filtering, web filtering and application control. we have effectively restricted access to unauthorized content such as socila media,gambling and explicit websites.
+This is just a few of the features of fortigate firewall I touched on ,there is more you can do with fortigate.
 
 
